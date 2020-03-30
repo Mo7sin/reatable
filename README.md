@@ -19,7 +19,7 @@ While 2.x release may at least temporarily work with most recent laravel 5.x ver
 Require the package using Composer:
 
 ```
-composer require mo7sin/laravel-rateable
+composer require mo7sin/rateable
 ```
 
 As with most Laravel packages, if you're using Laravel 5.5 or later, the package will be auto-discovered ([learn more if this is new to you](https://medium.com/@taylorotwell/package-auto-discovery-in-laravel-5-5-ea9e3ab20518)).
